@@ -1,7 +1,7 @@
 ## Hi I'm Sushanto Roy 
 
 
-I'm Sushanto, a dedicated data analyst with a strong foundation in SQL, Power BI, and R programming. I am passionate about turning data into actionable insights and delivering meaningful solutions.
+a dedicated data analyst with a strong foundation in SQL, Power BI, and R and Python. I am passionate about turning data into actionable insights and delivering meaningful solutions.
 
 Skills: SQL | Power BI | Excel | Python | R 
 
