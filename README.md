@@ -1,6 +1,5 @@
 ## Hi I'm Sushanto Roy 
-#### Data Analyst
-![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQECiQO4vC9p6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733165278623?e=1742428800&v=beta&t=WIBpHOZMzEwKO3lW8rOVtc9DmDyFRhdz4mQGXUKV9fk)
+
 
 I'm Sushanto, a dedicated data analyst with a strong foundation in SQL, Power BI, and R programming. I am passionate about turning data into actionable insights and delivering meaningful solutions.
 
